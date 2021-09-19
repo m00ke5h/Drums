@@ -2,7 +2,7 @@
 
  
 
-- Download the **.zip** file from **releases** section
+- Download the **Drums-release.zip** file from **releases** section
 - Extract it
 - Run the suitable file according to your OS.
   - **Windows** - Run *Drums-win_x64.exe*
