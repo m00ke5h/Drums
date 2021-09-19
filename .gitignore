@@ -12,6 +12,3 @@ neutralino.js
 .storage
 *.log
 neutraljs.log
-
-# gitignore
-.gitignore
